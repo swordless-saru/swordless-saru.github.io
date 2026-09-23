@@ -1,0 +1,35 @@
+title: Tri-Tail Digital
+description: >-
+  Independent Android apps and engineering standards from Steven Anderson.
+
+# This is a GitHub *user* site (repo name matches the account exactly:
+# swordless-saru.github.io), which GitHub always serves from the root of
+# the default branch - unlike a project-pages site (username.github.io/App),
+# there is no /docs subfolder and no baseurl to set. Do not add one; it
+# would break every link on this specific site.
+remote_theme: just-the-docs/just-the-docs@v0.10.1
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: false
+
+search_enabled: true
+heading_anchors: true
+color_scheme: light
+
+# This repo (unlike Dragma/Paraclete/Kanon's private source repos) is
+# itself public, so a "View on GitHub" link actually resolves for a
+# visitor instead of hitting a 404/access-denied page.
+aux_links:
+  "View on GitHub":
+    - "https://github.com/swordless-saru/swordless-saru.github.io"
+
+footer_content: >-
+  Copyright &copy; 2026 Steven Anderson.
+
+exclude:
+  - .gitignore
