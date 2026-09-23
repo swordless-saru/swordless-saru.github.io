@@ -1,0 +1,55 @@
+Copyright (c) 2026 Steven Anderson
+
+These standards are dual-licensed, following the same split Google uses
+for its own public style guides: a documentation license for the prose,
+a software license for the code.
+
+--------------------------------------------------------------------------
+Prose: Creative Commons Attribution 4.0 International (CC BY 4.0)
+--------------------------------------------------------------------------
+
+The written guidance - explanations, rules, rationale, tables - is
+licensed under CC BY 4.0.
+
+You are free to share and adapt it, for any purpose including
+commercially, provided you give appropriate credit.
+
+Full text: https://creativecommons.org/licenses/by/4.0/legalcode
+Summary:   https://creativecommons.org/licenses/by/4.0/
+
+--------------------------------------------------------------------------
+Code samples: MIT
+--------------------------------------------------------------------------
+
+Every code sample embedded in these documents is licensed under the MIT
+License below. Copy them into your projects freely, with no attribution
+requirement - an attribution obligation attached to a ten-line Compose
+snippet would make it unusable in practice, which would defeat the
+purpose of publishing it.
+
+Permission is hereby granted, free of charge, to any person obtaining a
+copy of this software and associated documentation files (the "Software"),
+to deal in the Software without restriction, including without limitation
+the rights to use, copy, modify, merge, publish, distribute, sublicense,
+and/or sell copies of the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+
+--------------------------------------------------------------------------
+Why two licenses
+--------------------------------------------------------------------------
+
+MIT is a software license; its language ("this software") reads awkwardly
+when applied to an essay about Scaffold placement. CC BY is built for
+documents but is a poor fit for source code. Using each where it belongs
+is more correct than stretching one to cover both.
